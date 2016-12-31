@@ -8,4 +8,4 @@ Consider a word consisting of lowercase English alphabetic letters, where each l
 
 Given the height of each letter in millimeters (), find the total area that will be highlighted by blue rectangle in square millimeters() when the given word is selected in our new PDF viewer.
 
-![alt tag](https://github.com/pancr9/hackerrank/tree/master/Designer%20PDF%20Viewer/InputFormat.png)
+![alt tag](https://github.com/pancr9/hackerrank/blob/master/Designer%20PDF%20Viewer/InputFormat.PNG)
