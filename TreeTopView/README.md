@@ -22,4 +22,4 @@ void topView(node * root) {
 
 Print the values on a single line separated by space.
 
-![Sample](https://github.com/pancr9/hackerrank/TreeTopView/sample.PNG)
+![Sample](https://github.com/pancr9/hackerrank/blob/master/TreeTopView/sample.PNG)
